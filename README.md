@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Rubens Gabriel
 
-- 🌱 Estudando HTML e CSS
+- 🌱 Estudando Desenvolvimento FrontEnd
+- 👨‍💻 Estudando um pouco de Java e também POO utilizando Java
 <div align="center">
   <a href="https://github.com/rubensgabriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubensgabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
