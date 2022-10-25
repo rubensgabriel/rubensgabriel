@@ -2,10 +2,8 @@
 - 🔭 Atualmente estou trabalhando como Estagiário de TI
 - 🌱 Estudando Desenvolvimento FrontEnd
 - 👨‍💻 Estudando PowerBuilder e Banco de Dados
-```
-Muitos de vocês estão familiarizados com as virtudes de um programador. Existem três, é claro: preguiça, impaciência e arrogância
-```
-> Eric Raymond
+> Muitos de vocês estão familiarizados com as virtudes de um programador. Existem três, é claro: preguiça, impaciência e arrogância
+- Eric Raymond
 
 <div align="left">
 <h3> Ferramentas e Tecnologias
