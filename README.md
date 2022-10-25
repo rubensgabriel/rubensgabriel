@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Rubens Gabriel
-
+- 🔭 Atualmente estou trabalhando como Estagiário de TI
 - 🌱 Estudando Desenvolvimento FrontEnd
-- 👨‍💻 Estudando um pouco de Java e também POO utilizando Java
+- 👨‍💻 Estudando PowerBuilder e Banco de Dados
+### Ferramentas e Tecnologias
+<img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <div align="center">
   <a href="https://github.com/rubensgabriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubensgabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
