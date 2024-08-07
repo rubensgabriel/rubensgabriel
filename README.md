@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rubens Gabriel
 - 🔭 Experiência com desenvolvimento em PowerBuider
-- ⚛️ Conhecimento em HTML, CSS e JavaScript
+- ⚛️ Conhecimentos em HTML, CSS e JavaScript
 - 🚀 No momento dedicando estudos em React
 > Muitos de vocês estão familiarizados com as virtudes de um programador. Existem três, é claro: preguiça, impaciência e arrogância
 - Eric Raymond
@@ -10,7 +10,13 @@
 <div>
 <br>
 <div align="left">
-<img style="width: 57px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img style="width: 57px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img style="width: 57px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <img style="width: 57px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img style="width: 57px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img style="width: 57px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img style="width: 57px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img style="width: 57px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img style="width: 57px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img style="width: 57px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
 <div>
 
   ##
