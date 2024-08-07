@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Rubens Gabriel
-- 🔭 Atualmente estou trabalhando como Estagiário de TI
-- 🌱 Conhecimento em HTML e CSS
-- 👨‍💻 No momento dedicando estudos em PowerBuilder
+- 🔭 Experiência com desenvolvimento em PowerBuider
+- ⚛️ Conhecimento em HTML, CSS e JavaScript
+- 🚀 No momento dedicando estudos em React
 > Muitos de vocês estão familiarizados com as virtudes de um programador. Existem três, é claro: preguiça, impaciência e arrogância
 - Eric Raymond
 
